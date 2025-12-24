@@ -1,0 +1,15 @@
+# datasets
+vietnamese-traffic-signs/
+
+# model checkpoints
+checkpoints/
+
+# results
+results/
+
+# videos
+*.mp4
+
+# python cache
+__pycache__/
+*.pyc
